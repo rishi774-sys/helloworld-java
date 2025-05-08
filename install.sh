@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Installing based on the OS to the virtual machines
+
 set -e  # Exit on any error
 
 # Tool variables
